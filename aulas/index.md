@@ -35,6 +35,11 @@ De modo simplificado, computadores são formados por:
 Estes dispositivos operam em conjunto sob a coordenação da UCP (que é mais conhecida pela sigla em inglês CPU).  Com efeito, o funcionamento do computador pode ser descrito como segue.  A CPU faz a leitura de dados e de um conjunto de instruções gravados pelo usuário no dispositivo de entrada de dados, armazena tais dados na memória, executa as instruções (operações) nos dados em memória e escreve os dados resultantes das operações no dispositivos de saída para os usuários.  Terminada a escrita, a CPU fica pronta novamente para ler o dispositivo de entrada e recomeçar todas as operações realizadas anteriormente em um ciclo infinito até que ela seja desligada.
 
 
+# 4. Sistemas numéricos e análise de arredondamento de ponto flutuante.
 
+Um [sistema numérico](http://www.inf.ufsc.br/~bosco/extensao/sistemas-de-numeracao.pdf) é um conjunto de símbolos denominados algarismo utilizados para representar elementos de conjuntos numéricos.
 
+O número de algarimos utilizados para representar os números é chamado de de base do sistema numérico.  Por exemplo, o [sistema numérico decimal](http://mdmat.mat.ufrgs.br/anos_iniciais/sn_decimal_posicional/sn_decimal_posicional.htm), que é o mais usado e conhecido, possui dez algarismos, quais sejam, 0, 1, 2,3, 4, 5, 6, 7, 8 e 9.  Com estes 10 algarimos todos os números racionais podem ser escritos.
+
+Existem, porém, outros sistemas numéricos além do decimal.  Os mais utilizados em computadores são o [sistema binário](https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_bin%C3%A1rio) (0 e 1), [sistema octal](https://pt.wikipedia.org/wiki/Sistema_octal#:~:text=Sistema%20Octal%20%C3%A9%20um%20sistema,programa%C3%A7%C3%A3o%20em%20linguagem%20de%20m%C3%A1quina.) (0,1,2,3,4,5,6,7) e o [sistema hexadecimal](http://marco.uminho.pt/~joao/Computacao2/node10.html) (0,1,2,3,4,5,6,7,8,9, A, B, C, D, E, F).
 
