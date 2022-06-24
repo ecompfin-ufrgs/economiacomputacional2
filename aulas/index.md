@@ -49,8 +49,22 @@ Existem, porém, outros sistemas numéricos além do decimal.  Os mais utilizado
 
 ### Representação de um número binário
 
+Um número é representado no sistema binário usando apenas os algarismos 0 e 1.  
+
+**Exemplo**: número no sistema binário
+
+1001
+
 
 ### Conversão para o sistema decimal
+Para converter um número binário para o sistema decimal, basta multiplicar cada algarismo por 2 elevado à pontência da posição do algarismo no número contado a partir de 0 da direita para a esquerda.
+
+**Exemplo**: Converta o número 10.011.101 da base 2 para decimal.
+
+Observe que o número tem 8 algarismos.  Então, na base decimal ele se representa como
+
+n = 1 . 2^7 + 0 . 2^6 + 0 . 2^5 + 1 . 2^4 + 1 . 2^3 + 1 . 2^2 + 0 . 2^1 + 1 . 2^0 =  157.
+
 
 
 ### Conversão de decimal para binário.
