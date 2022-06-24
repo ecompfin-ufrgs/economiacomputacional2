@@ -1,8 +1,8 @@
 # 1. Introdução ao Cálculo Numérico
 
-Cálculo numérico é a parte da matemática que se dedica a encontrar soluções numéricas para problemas definidos nas demais áreas, tais como, álgebra, aritmética, cálculo diferencial e integral.
+[Cálculo numérico](https://www.conexaogeoclima.com.br/post/o_que_e_calculo_numerico) é a parte da matemática que se dedica a encontrar soluções numéricas para problemas definidos nas demais áreas, tais como, álgebra, aritmética, cálculo diferencial e integral.
 
-Tais soluções são encontradas por meio de algoritmos que, no mais das vezes, buscam uma aproximação da
+Tais soluções são encontradas por meio de algoritmos que, no mais das vezes, provêem uma resposta aproximada ao problema.
 
 As referências básicas para este texto são:
 
