@@ -69,3 +69,5 @@ n = 1 . 2^7 + 0 . 2^6 + 0 . 2^5 + 1 . 2^4 + 1 . 2^3 + 1 . 2^2 + 0 . 2^1 + 1 . 2^
 
 ### Conversão de decimal para binário.
 
+Veja [A Tutorial on Data Representation
+Integers, Floating-point Numbers, and Characters](https://www3.ntu.edu.sg/home/ehchua/programming/java/datarepresentation.html)
