@@ -1,4 +1,4 @@
-# Introdução ao Cálculo Numérico
+# 1. Introdução ao Cálculo Numérico
 
 Cálculo numérico é a parte da matemática que se dedica a encontrar soluções numéricas para problemas definidos nas demais áreas, tais como, álgebra, aritmética, cálculo diferencial e integral.
 
