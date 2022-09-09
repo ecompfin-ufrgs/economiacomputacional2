@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+
+
+
+<html lang="pt-BR">
+<head>
+<meta name="author" content="Nelson Seixas dos Santos">
+<meta name="description" content="An example of Lagrange polinomyals to interpolate a set of points">
+<meta name="viewport" content="width=device-width">
+
+<title>Polinômios de Lagrange</title>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" defer></script>
+
+</head>
+
+
+<body>
+
+<header></header>
+
+<nav>
+
+</nav>
+<main>
+<article>
+<h2>Polinômios de Lagrange</h2>
+
+<p>
+Dados os pontos \( \left\{(x_i, y_i) \right\}_{i = 1}^N \), diz-se que p(x) é o polinômio de Lagrange de interpolação destes pontos se p(x) é combinação linear dos polinômios a seguir.
+
+</p>
+
+<p>
+\[
+
+L_k(x_j) = 
+
+\begin{cases}
+1 & \quad k = j \\
+0 & \quad k \neq j
+
+\end{cases}
+
+\]
+
+</p>
+
+<p>
+Ou seja:
+</p>
+
+<p>
+\[ p(x) = \sum_{i = 1}^N y_i.L_i(x)\]
+
+</p>
+
+<h3>Exemplo</h3>
+
+<p>
+
+Considere o conjunto de pontos \( \left\{(x_1, y_1), (x_2, y_2), (x_3, y_3) \right\} \).  Então, \(L_i (x) \) é de grau 2, isto é:
+
+</p>
+\[
+
+L_1 (x) = a_0 + a_1 x + a_2 x^2 
+
+
+\]
+<p>
+
+</p>
+\[
+
+
+
+L_2 (x) = b_0 + b_1 x + b_2 x^2 
+
+\]
+<p>
+
+
+</p>
+\[
+
+
+
+L_3 (x) = c_0 + c_1 x + c_2 x^2 
+
+\]
+
+<p>
+
+Em particular, para \(L_1 \), temos:
+</p>
+
+
+<p>
+L_1 (x_1) = 1
+
+
+
+</p>
+L_1 (x_2) = 0
+
+
+<p>
+L_1 (x_3) = 0
+
+</p>
+
+
+
+<p>
+Ou seja, \(x_2 e x_3 \) são raízes do polinômio \(L_1 \) e, portanto, podemos escrever:
+
+</p>
+
+
+
+<p>
+
+\[
+L_1(x) = d_1.(x - x_2).(x - x_3)
+
+\]
+
+</p>
+
+<p>
+Onde \( d_1 \) é obtido de modo que 
+</p>
+
+</p>
+
+\[
+L_1 (x_1) = a_0 + a_1 x_1 + a_2 x_1^2 = 1 
+
+\]
+<p>
+
+<p> Ou seja:</p>
+
+</p>
+
+\[
+L_1 (x_1) = d_1(x_1 - x_2)(x_1 - x_3) = 1 
+
+\]
+<p>
+
+<p>
+Procedendo analogamente para \(L_2 \quad e \quad L_3\), temos que:
+
+</p>
+
+
+<p>
+
+\[
+L_2(x) = d_2.(x - x_1).(x - x_3)
+
+\]
+</p>
+
+
+<p>
+\[
+L_3(x) = d_3.(x - x_1).(x - x_2)
+
+\]
+
+
+
+
+</p>
+
+
+<p>
+Resulta daí que obtemos o polinômio p(x).
+
+</p>
+
+</article>
+</main>
+<aside>
+
+</aside>
+
+<footer>
+
+</footer>
+
+
+</body>
+
+
+
+</html> 
