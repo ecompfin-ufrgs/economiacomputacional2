@@ -6,7 +6,7 @@ O sumário deste site é:
 
 1. [Introdução ao Cálculo Numérico](calculonumerico.md)
 2. [teste](http://www.terra.com.br)
-3. [nada](terra.html)
+3. [nada]([terra.html](https://github.com/ecompfin-ufrgs/economiacomputacional2/blob/main/docs/polinomioLagrange.html))
 4. [Álgebra Linear Computacional](algebralinearcomputacional.md)
 5. [Equações não lineares](equacoes_nao_lineares.md)
 6. [Polinômios de Lagrange](polinomioLagrange.html)
