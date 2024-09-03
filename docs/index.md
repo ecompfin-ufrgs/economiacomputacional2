@@ -5,7 +5,7 @@ Este é o site da disciplina de Economia Computacional II lecionada pelo Prof. N
 O sumário deste site é:
 
 1. [Introdução ao Cálculo Numérico](calculonumerico.md)
-2. [teste](www.terra.com.br)
+2. [teste](http://www.terra.com.br)
 3. [Álgebra Linear Computacional](algebralinearcomputacional.md)
 4. [Equações não lineares](equacoes_nao_lineares.md)
 5. [Polinômios de Lagrange](polinomioLagrange.html)
