@@ -4,12 +4,16 @@ Este é o site da disciplina de Economia Computacional II lecionada pelo Prof. N
 
 O sumário deste site é:
 
-1. [Introdução ao Cálculo Numérico](intCompSci.md)
-2. [Álgebra Linear Computacional](algebralinearcomputacional.md)
-3. [Equações não lineares](equacoes_nao_lineares.md)
-4. [Polinômios de Lagrange](polinomioLagrange.html)
-5. [Cálculo Diferencial e Integral Computacional](calculo.md)
-6. [Equações Diferenciais Parciais](edp.md)
+1. [Introdução à computação científica](intCompSci.md)
+2. [Introdução aos sistemas operacionais baseados em Linux](intOSLinux.md)
+3. [Introdução à linguagem C](intC.md)
+4. [Migrando a computação científica de C para Python](cToPy.md)
+5. [Aritmética em Python](aritPy.md)
+6. [Álgebra Linear Computacional](algebralinearcomputacional.md)
+7. [Equações não lineares](equacoes_nao_lineares.md)
+8. [Ajustes de curvas]()
+9. [Cálculo Diferencial e Integral Computacional](calculo.md)
+10. [Equações Diferenciais](edop.md)
 
 
 
