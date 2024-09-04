@@ -6,7 +6,7 @@ O sumário deste site é:
 
 1. [Introdução à computação científica](intCompSci.md)
 2. [Introdução aos sistemas operacionais baseados em Linux](intOSLinux.md)
-3. [Introdução à linguagem C](intC.md)
+3. [Introdução à linguagem C](https://ecompfin-ufrgs.github.io/linguagemC/)
 4. [Migrando a computação científica de C para Python](cToPy.md)
 5. [Aritmética em Python](aritPy.md)
 6. [Álgebra Linear Computacional](algebralinearcomputacional.md)
