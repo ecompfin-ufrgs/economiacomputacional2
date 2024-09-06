@@ -11,7 +11,7 @@ O sumário deste site é:
 5. [Aritmética em Python](aritPy.md)
 6. [Álgebra Linear Computacional](algebralinearcomputacional.md)
 7. [Equações não lineares](equacoes_nao_lineares.md)
-8. [Otimização e Aproximação no $\mathbb{R}^n$](otimaprox.md)
+8. [Otimização e Aproximação no $R^n$](otimaprox.md)
 9. [Diferenciação e Integração](calculo.md)
 10. [Programação dinâmica](progdin.md)
 
