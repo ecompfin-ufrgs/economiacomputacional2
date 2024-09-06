@@ -16,7 +16,7 @@ O sumário deste site é:
 10. [Programação dinâmica](progdin.md)
 
 
-
+$\mathbb{R}^n$
 
 
 
