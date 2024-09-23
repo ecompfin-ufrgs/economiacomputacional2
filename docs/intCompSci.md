@@ -35,7 +35,7 @@ O número de algarismos utilizados para representar os números é chamado de ba
 
 Existem, porém, outros sistemas numéricos além do decimal.  Os mais utilizados em computadores são o [sistema binário](https://pt.wikipedia.org/wiki/Sistema_de_numera%C3%A7%C3%A3o_bin%C3%A1rio) (0 e 1), [sistema octal](https://pt.wikipedia.org/wiki/Sistema_octal#:~:text=Sistema%20Octal%20%C3%A9%20um%20sistema,programa%C3%A7%C3%A3o%20em%20linguagem%20de%20m%C3%A1quina.) (0,1,2,3,4,5,6,7) e o [sistema hexadecimal](http://marco.uminho.pt/~joao/Computacao2/node10.html) (0,1,2,3,4,5,6,7,8,9, A, B, C, D, E, F).
 
-É particularmente interessante o sistema binário, pois computadores reais trabalham com transistores que alterando a tensão da corrente elétrica que recebem de modo denotar um estado sem alteração como 0 e um estado alterado como 1.  Ou seja, o formato nativo de operação dos circuitos da CPU é binário.
+É particularmente interessante o sistema binário, pois computadores reais trabalham com transistores que alteram a tensão da corrente elétrica que recebem de modo a denotar um estado sem alteração como 0 e um estado alterado como 1.  Ou seja, o formato nativo de operação dos circuitos da CPU é binário.
 
 ## 3.1 Sistema binário
 
